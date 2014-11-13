@@ -1,0 +1,1180 @@
+{
+	"folder_history":
+	[
+		"/C/Aptana Studio 3 Workspace/5 march"
+	],
+	"last_window_id": 3,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"count",
+						"countHour"
+					],
+					[
+						"scr",
+						"script	Tag"
+					],
+					[
+						"sc",
+						"src"
+					],
+					[
+						"backgr",
+						"background-repeat"
+					],
+					[
+						"margi",
+						"margin-bottom"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"tex",
+						"textarea"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"PHP",
+						"phpversion"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"li",
+						"li	Tag"
+					],
+					[
+						"SC",
+						"script	Tag"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"u",
+						"ul	Tag"
+					],
+					[
+						"cou",
+						"countSec"
+					],
+					[
+						"coun",
+						"countMin"
+					],
+					[
+						"co",
+						"countHour"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"bord",
+						"border-bottom"
+					],
+					[
+						"border",
+						"border-top"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"re",
+						"repeat-x"
+					],
+					[
+						"search",
+						"searchhead"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"i",
+						"images"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"nav",
+						"navigation"
+					],
+					[
+						"div",
+						"div_1"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"in",
+						"input	Tag"
+					],
+					[
+						"j",
+						"jquery"
+					],
+					[
+						"get",
+						"getElementById"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: HTML_template"
+					],
+					[
+						"Snippet: lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"ht",
+						"Snippet: HTML_template"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: html",
+						"Snippet: HTML - HTML5 shiv"
+					],
+					[
+						"Snippet: ht",
+						"Snippet: HTML - Dummy text"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Sn",
+						"Set Syntax: HTML (Erlang)"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 132.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/workshop/.gitignore",
+				"/D/workshop/notes.txt",
+				"/C/Documents and Settings/Anton/Desktop/1.HTML",
+				"/D/sublime coding/jQuery/index1.html",
+				"/D/sublime coding/clock/clock.html",
+				"/D/sublime coding/clock/script.js",
+				"/D/sublime coding/clock 05 21 review/script.js",
+				"/D/sublime coding/clock 05 21 review/index.html",
+				"/D/sublime coding/slider/style.css",
+				"/D/sublime coding/slider/script.js",
+				"/D/sublime coding/slider/index.html",
+				"/C/Documents and Settings/Anton/Desktop/website1/website1/style.css",
+				"/C/Documents and Settings/Anton/Desktop/website1/website1/index.html",
+				"/D/sublime coding/jQuery/script3.js",
+				"/D/sublime coding/slider/jquery.js",
+				"/D/sublime coding/jQuery/index3.html",
+				"/D/sublime coding/jQuery/index4.html",
+				"/C/Documents and Settings/Anton/Desktop/jcobb-basic-jquery-slider-8ffe118/js/bjqs-1.3.min.js",
+				"/C/Documents and Settings/Anton/Desktop/jcobb-basic-jquery-slider-8ffe118/index.html",
+				"/C/Documents and Settings/Anton/Desktop/jcobb-basic-jquery-slider-8ffe118/bjqs.css",
+				"/D/sublime coding/psd template/index.html",
+				"/D/sublime coding/psd template/style.css",
+				"/C/Aptana Studio 3 Workspace/jan 30/index.html",
+				"/C/Aptana Studio 3 Workspace/jan 30/style.css",
+				"/C/Aptana Studio 3 Workspace/sprite/index.html",
+				"/C/Aptana Studio 3 Workspace/5 march/index.html",
+				"/D/sublime coding/jQuery/index2.html",
+				"/D/sublime coding/jQuery/script2.js",
+				"/D/sublime coding/jQuery/jquery.js",
+				"/C/OpenServer/domains/prakt1.ua/info.php",
+				"/C/OpenServer/domains/prakt1.ua/.htaccess",
+				"/C/OpenServer/domains/prakt1.ua/page.php",
+				"/C/OpenServer/domains/prakt1.ua/404.html",
+				"/C/OpenServer/domains/prakt1.ua/index.php",
+				"/D/sublime coding/jQuery/index.html",
+				"/D/sublime coding/jQuery/style1.css",
+				"/D/sublime coding/array.html",
+				"/D/sublime coding/array.js",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/User/Emmet.sublime-settings",
+				"/D/sublime coding/another clockwatch.html",
+				"/C/Aptana Studio 3 Workspace/one/length.html",
+				"/D/sublime coding/clock.js",
+				"/C/Aptana Studio 3 Workspace/5 march/arrays.html",
+				"/C/Aptana Studio 3 Workspace/one/window obj.html",
+				"/C/Aptana Studio 3 Workspace/one/index.html",
+				"/D/sublime coding/clock/style.css",
+				"/D/sublime coding/script.js",
+				"/D/sublime coding/clockwatch.html",
+				"/C/Aptana Studio 3 Workspace/one/second counter.html",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/HTML-Snippets-master/HTML_template.sublime-snippet",
+				"/C/Aptana Studio 3 Workspace/one/functions SSN random.html",
+				"/D/sublime coding/04.04.2014/SNN generator.html",
+				"/D/sublime coding/04.04.2014/script.js",
+				"/D/sublime coding/maket ps/style.css",
+				"/D/sublime coding/maket ps/index.html",
+				"/C/Aptana Studio 3 Workspace/10 jan/index.html",
+				"/C/Aptana Studio 3 Workspace/10 jan/style.css",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/User/tabTrigger.sublime-snippet",
+				"/C/Aptana Studio 3 Workspace/pract 6/index.html",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/HTML/html.sublime-snippet",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/User/html-html5skel.sublime-snippet",
+				"/D/sublime coding/style_clock.css",
+				"/D/sublime coding/jquery.html",
+				"/D/sublime coding/style.css",
+				"/D/sublime coding/my.js",
+				"/D/sublime coding/jquery-currency.html",
+				"/C/Documents and Settings/Anton/Desktop/subl/Data/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"overflow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 158.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"txt_",
+						"txt_to"
+					],
+					[
+						"voc",
+						"voc"
+					],
+					[
+						"txt",
+						"txt_from"
+					],
+					[
+						"tx",
+						"txt_from"
+					],
+					[
+						"Th",
+						"ThirdClass"
+					],
+					[
+						"get",
+						"getSalary"
+					],
+					[
+						"PHAZE",
+						"PHRAZE_FIRST"
+					],
+					[
+						"like",
+						"likesCats"
+					],
+					[
+						"af",
+						"afraid_dogs"
+					],
+					[
+						"afr",
+						"afraidDogs"
+					],
+					[
+						"chas",
+						"chases_cats"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"ge",
+						"get_bucket"
+					],
+					[
+						"nu",
+						"num_buckets"
+					],
+					[
+						"abbr",
+						"abbrv"
+					],
+					[
+						"te",
+						"ten_things"
+					],
+					[
+						"secret",
+						"secret_room"
+					],
+					[
+						"main",
+						"main_chamber"
+					],
+					[
+						"ma",
+						"main_chamber"
+					],
+					[
+						"bear",
+						"bear_moved"
+					],
+					[
+						"not",
+						"not_to_be"
+					],
+					[
+						"sentence",
+						"sort_sentence"
+					],
+					[
+						"sorted",
+						"sorted_words"
+					],
+					[
+						"sort",
+						"sorted_words"
+					],
+					[
+						"print",
+						"print_last_word"
+					],
+					[
+						"print_",
+						"print_last_word"
+					],
+					[
+						"prin",
+						"print_last_word"
+					],
+					[
+						"to",
+						"to_file"
+					],
+					[
+						"in",
+						"in_file"
+					],
+					[
+						"from",
+						"from_file"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"file",
+						"file_again"
+					],
+					[
+						"vide",
+						"videoCont"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"d",
+						"decimal"
+					],
+					[
+						"c",
+						"c"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"ar",
+						"arr2"
+					],
+					[
+						"obj",
+						"obj5"
+					],
+					[
+						"func",
+						"func1"
+					],
+					[
+						"translate",
+						"translateZ"
+					],
+					[
+						"bord",
+						"border-bottom"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"li",
+						"link	Tag"
+					],
+					[
+						"backgr",
+						"background"
+					],
+					[
+						"count",
+						"countHour"
+					],
+					[
+						"scr",
+						"script	Tag"
+					],
+					[
+						"sc",
+						"src"
+					],
+					[
+						"margi",
+						"margin-bottom"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"PHP",
+						"phpversion"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"SC",
+						"script	Tag"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"u",
+						"ul	Tag"
+					],
+					[
+						"cou",
+						"countSec"
+					],
+					[
+						"coun",
+						"countMin"
+					],
+					[
+						"co",
+						"countHour"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"re",
+						"repeat-x"
+					],
+					[
+						"search",
+						"searchhead"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"nav",
+						"navigation"
+					],
+					[
+						"div",
+						"div_1"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"j",
+						"jquery"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/web/ewizard/index.html",
+					"settings":
+					{
+						"buffer_size": 31501,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/ewizard/video.html",
+					"settings":
+					{
+						"buffer_size": 2669,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/ewizard/style.css",
+					"settings":
+					{
+						"buffer_size": 2280,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/web/ewizard/script.js",
+					"settings":
+					{
+						"buffer_size": 495,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/code/script62.py",
+					"settings":
+					{
+						"buffer_size": 513,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: HTML_template"
+					],
+					[
+						"Snippet: ht",
+						"Snippet: HTML_template"
+					],
+					[
+						"Snippet: lor",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"ht",
+						"Snippet: HTML_template"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: html",
+						"Snippet: HTML - HTML5 shiv"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Sn",
+						"Set Syntax: HTML (Erlang)"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 132.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/code/script61.py",
+				"/D/web/web/index.html",
+				"/D/web/ewizard/video.html",
+				"/D/code/person.py",
+				"/D/code/to.txt",
+				"/D/code/from.txt",
+				"/D/code/script53.py",
+				"/D/code/script47.py",
+				"/D/code/hashmap.py",
+				"/D/code/script46.py",
+				"/D/code/script45.py",
+				"/D/code/script44.py",
+				"/D/code/script43.py",
+				"/D/code/script26.py",
+				"/D/code/script59.py",
+				"/D/code/script58.py",
+				"/D/code/script57.py",
+				"/D/code/script56.py",
+				"/D/code/script55.py",
+				"/D/code/script54.py",
+				"/C/Users/default-user/Desktop/iFAQ/iFAQ.html",
+				"/D/code/script48.py",
+				"/D/code/script38.py",
+				"/D/code/script37.py",
+				"/D/code/script36.py",
+				"/D/code/script28.py",
+				"/D/code/script27.py",
+				"/D/web/web/style.css",
+				"/D/code/script42.py",
+				"/D/code/script39.py",
+				"/D/code/script25.py",
+				"/D/code/script18.py",
+				"/D/code/chicago.py",
+				"/D/web/web/script.js",
+				"/D/code/requests/FirstRequest.py",
+				"/D/code/script15.py",
+				"/D/code/script16.py",
+				"/D/code/script17.py",
+				"/D/code/www",
+				"/D/code/script15_sample.txt",
+				"/D/code/script14.py",
+				"/D/code/script13.py",
+				"/D/code/script12.py",
+				"/D/code/script11.py",
+				"/D/code/script10.py",
+				"/D/code/script9.py",
+				"/D/code/script8.py",
+				"/D/code/script7.py",
+				"/D/code/script6.py",
+				"/D/code/script5.py",
+				"/D/code/script4.py",
+				"/D/code/script3.py",
+				"/D/code/script2.py",
+				"/D/code/script1.py",
+				"/D/web/web/video.html",
+				"/D/web/web/README.md",
+				"/C/Users/default-user/Desktop/web1/style.css",
+				"/C/Users/default-user/Desktop/web1/script.js",
+				"/D/web/web1/index.html",
+				"/C/Users/default-user/Desktop/web1/index.html",
+				"/C/Users/default-user/Desktop/web/style.css",
+				"/C/Users/default-user/Desktop/web/script.js",
+				"/C/Users/default-user/Desktop/web/index.html",
+				"/C/Users/default-user/Desktop/web/waka1.html",
+				"/C/Users/default-user/Desktop/style.css",
+				"/C/Users/default-user/Desktop/script.js",
+				"/C/Users/default-user/Desktop/web/waka3.js",
+				"/C/Users/default-user/Desktop/web/waka2.css",
+				"/D/QAP learning/copy.md",
+				"/C/Documents and Settings/Anton/Desktop/responsive maket/style.css",
+				"/D/rep1/vizitka/index.html",
+				"/C/Documents and Settings/Anton/Desktop/responsive maket/index.html",
+				"/D/QAP learning/QAP14/index.html",
+				"/D/QAP learning/QAP13/index.html",
+				"/D/QAP learning/QAP12/gallery.json",
+				"/D/QAP learning/QAP12/data.json",
+				"/D/QAP learning/QAP13/script.js",
+				"/D/QAP learning/QAP12/script.js",
+				"/D/QAP learning/QAP12/index.html",
+				"/C/Documents and Settings/Anton/Desktop/task functions/gallery.json",
+				"/D/sublime coding/clock.js",
+				"/D/QAP learning/QAP11/index.html",
+				"/D/QAP learning/QAP11/script.js",
+				"/D/QAP learning/QAP10/script.js",
+				"/D/QAP learning/QAP10/index.html",
+				"/D/QAP learning/QAP9/index.html",
+				"/D/QAP learning/QAP9/script.js",
+				"/D/sublime coding/array.js",
+				"/D/sublime coding/array.html",
+				"/D/QAP learning/QAP8/style.css",
+				"/D/QAP learning/QAP8/index.html",
+				"/D/QAP learning/QAP7/index.html",
+				"/D/project1/index.html",
+				"/D/QAP learning/QAP7/style.css",
+				"/D/QAP learning/QAP7/script.js",
+				"/C/Documents and Settings/Anton/Desktop/QAP6/style.css",
+				"/C/Documents and Settings/Anton/Desktop/copy.md",
+				"/C/Documents and Settings/Anton/Desktop/QAP6/index.html",
+				"/D/QAP/CUBE/index.html",
+				"/C/Documents and Settings/Anton/Desktop/testing/index.html",
+				"/C/Documents and Settings/Anton/Desktop/testing/style.css",
+				"/F/testing/style.css",
+				"/C/Documents and Settings/Anton/Desktop/QAP5/style.css",
+				"/C/Documents and Settings/Anton/Desktop/QAP4/index.html",
+				"/C/Documents and Settings/Anton/Desktop/QAP5/inddex.html",
+				"/D/sublime coding/clock/script.js",
+				"/D/sublime coding/04.04.2014/SNN generator.html",
+				"/D/sublime coding/04.04.2014/script.js",
+				"/D/sublime coding/clock 05 21 review/script.js",
+				"/C/Documents and Settings/Anton/Desktop/QAP_1/index.html",
+				"/C/Documents and Settings/Anton/Desktop/QAP_1/style.css",
+				"/C/Documents and Settings/Anton/Desktop/QAP2/index.html",
+				"/C/Documents and Settings/Anton/Desktop/QAP2/style.css",
+				"/C/Documents and Settings/Anton/Desktop/QAP3/index.html",
+				"/C/Documents and Settings/Anton/Desktop/QAP3/style.css",
+				"/C/Aptana Studio 3 Workspace/5 march/index.html",
+				"/C/Documents and Settings/Anton/Desktop/QAP",
+				"/C/Documents and Settings/Anton/Desktop/mini-chat/index.html",
+				"/C/Documents and Settings/Anton/Desktop/mini-chat/style.css",
+				"/C/Documents and Settings/Anton/Desktop/1.HTML",
+				"/D/webcite1/index.html",
+				"/C/Documents and Settings/Anton/Desktop/html/custom.css",
+				"/C/Documents and Settings/Anton/Desktop/html/index.html",
+				"/D/sublime coding/jQuery/index1.html",
+				"/C/Documents and Settings/Anton/Desktop/html/default.css",
+				"/D/webcite1/style.css",
+				"/D/workshop/.gitignore",
+				"/D/workshop/notes.txt"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"редактировани пре",
+					"alt=\"\"",
+					"li",
+					"self.",
+					"content ",
+					"модуль \"визиты\"",
+					"визиты",
+					"Модуль \"Визиты\"",
+					"модуль \"визиты\"",
+					"h4",
+					"h3",
+					"overflow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"h3",
+					"h2"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/Aptana Studio 3 Workspace/5 march"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/web/ewizard/index.html",
+							"settings":
+							{
+								"buffer_size": 31501,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										448,
+										448
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/web/ewizard/video.html",
+							"settings":
+							{
+								"buffer_size": 2669,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										379,
+										379
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/web/ewizard/style.css",
+							"settings":
+							{
+								"buffer_size": 2280,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1117,
+										1117
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 315.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/web/ewizard/script.js",
+							"settings":
+							{
+								"buffer_size": 495,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										292,
+										292
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/code/script62.py",
+							"settings":
+							{
+								"buffer_size": 513,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										496,
+										496
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-32000,-32000,-1,-1,526,-8,0,787",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"in",
+						"index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 158.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
